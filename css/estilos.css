@@ -15,19 +15,19 @@ body {
 
 @font-face {
     font-family: Barista;
-    src: url(./fonts/Barista\ Script.otf);
+    src: url(../fonts/Barista\ Script.otf);
 }
 @font-face {
     font-family: LaBelleAurore-Regular;
-    src: url(./fonts/LaBelleAurore-Regular.ttf);
+    src: url(../fonts/LaBelleAurore-Regular.ttf);
 }
 @font-face {
     font-family: Olivia;
-    src: url(./fonts/Olivia.ttf);
+    src: url(../fonts/Olivia.ttf);
 }
 @font-face {
     font-family: Purple-Smile;
-    src: url(./fonts/Purple\ Smile.ttf);
+    src: url(../fonts/Purple\ Smile.ttf);
 }
 
 /***********Responsive Slider***********/
